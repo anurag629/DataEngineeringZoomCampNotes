@@ -62,8 +62,8 @@
 
 > Module 02: Workflow Orchestration
 
-1. Introduction to Airflow
+1. Conceptual Material: Introduction to Orchestration and Kestra
 
-    [Notes Link](02_module/01_intro_to_airflow/Readme.md)
+    [Notes Link](02_module/01_intro_kestra/Readme.md)
 
-    [Video Link](https://www.youtube.com/watch?v=3Z1cZk1nJCA&list=PL3MmuxUbc_hJed7dXYoJw8DoCuVHhGEQb&index=15)
+    [Video Link](https://www.youtube.com/watch?v=3Z9J9Z9Q9ZQ&list=PL3MmuxUbc_hJed7dXYoJw8DoCuVHhGEQb&index=15)

@@ -7,3 +7,9 @@ ny_taxi_data/
 
 # ssh keys
 .ssh/
+
+# Environment variables
+.env
+
+# Python virtual environment
+.venv
